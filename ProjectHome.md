@@ -1,0 +1,1 @@
+A scrolling arcade shooter using python and pygame.
